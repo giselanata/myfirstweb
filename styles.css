@@ -1,0 +1,10 @@
+h1{
+    text-transform: capitalize;
+    text-align: center;
+    color: rgb(162, 232, 241);
+    background-color: cornflowerblue;
+}
+table{
+    color: cadetblue;
+    background-color: darkorchid;
+}
